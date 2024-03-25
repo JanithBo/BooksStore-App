@@ -1,0 +1,171 @@
+[
+     {
+       "_id": { "$oid": "6458f2660370b02a293447b0" },
+       "title": "The Great Gatsby",
+       "thumbnail": "the-great-gatsby.jpg",
+       "slug": "the-great-gatsby",
+       "description": "First published in 1925, F. Scott Fitzgerald's “The Great Gatsby” is widely hailed as one of the most important American novels of the twentieth-century.",
+       "stars": "5",
+       "category": ["romance", "science"]
+     },
+     {
+       "_id": { "$oid": "6458f2c50370b02a2934d5fc" },
+       "title": "The Hobbit",
+       "thumbnail": "the-hobbit.jpg",
+       "slug": "the-hobbit",
+       "description": "This book is a critical introduction to J.R.R. Tolkien’s The Hobbit, but it also advances an argument about the novel in the context of Tolkien’s larger literary and philosophical project. ",
+       "stars": "5",
+       "category": ["crime", "food"]
+     },
+     {
+       "_id": { "$oid": "648ada707a15f23fa4ba9aa5" },
+       "title": "Demon Copperhead",
+       "thumbnail": "demon-copperhead.jpg",
+       "slug": "demon-copperhead",
+       "description": "A masterful recasting of David Copperfield, narrated by an Appalachian boy whose wise, unwavering voice relates his encounters with poverty, addiction, institutional failures and moral collapse-and his efforts to conquer them. - the Pulitzer.",
+       "stars": "4",
+       "category": ["adventure"]
+     },
+     {
+       "_id": { "$oid": "648ae00a7a15f23fa4ba9aaa" },
+       "title": "The Extra Mile",
+       "thumbnail": "the-extra-mile.jpg",
+       "slug": "the-extra-mile",
+       "description": "An inspirational and life-affirming read. What Kevin Sinfield has achieved on and off the field is truly remarkable. His inspiring leadership and relentless focus on fundraising for MND shows how we should all strive to care more for each other' Gareth Southgate",
+       "stars": "2",
+       "category": ["other", "food"]
+     },
+     {
+       "_id": { "$oid": "649ae53ea7fa4c85582e7724" },
+       "title": "No One Saw a Thing",
+       "thumbnail": "no-one-saw-a-thing.jpg",
+       "slug": "no-one-saw-a-thing",
+       "description": "Two children get on the train. Only one gets off... Probably the most suspenseful book I will read all year. Liz Nugent",
+       "stars": "2",
+       "category": ["thriller", "crime"]
+     },
+     {
+       "_id": { "$oid": "649ae85da7fa4c85582e7727" },
+       "title": "The Ink Black Heart",
+       "thumbnail": "the-ink-black-heart.jpg",
+       "slug": "the-ink-black-heart",
+       "description": "When frantic, dishevelled Edie Ledwell appears in the office begging to speak to her, private detective Robin Ellacott doesn't know quite what to make of the situation. The co-creator of a popular cartoon, The Ink Black Heart, Edie is being persecuted by a mysterious online figure who goes by the pseudonym of Anomie. Edie is desperate to uncover Anomie's true identity.",
+       "stars": "5",
+       "category": ["fiction"]
+     },
+     {
+       "_id": { "$oid": "649ae855a7fa4c85582e7726" },
+       "title": "Harry Potter",
+       "thumbnail": "harry-potter.jpg",
+       "slug": "harry-potter",
+       "description": "Dark times have come to Hogwarts. After the Dementors' attack on his cousin Dudley, Harry Potter knows that Voldemort will stop at nothing to find him.",
+       "stars": "5",
+       "category": ["fiction"]
+     }
+     ,
+     {
+       "_id": { "$oid": "649aeab9a7fa4c85582e772a" },
+       "title": "The 6:20 Man",
+       "thumbnail": "the-6-20-man.jpg",
+       "slug": "the-6-20-man",
+       "description": "The 6:20 Man is a heart-racing thriller set in the world of high finance in New York, from the number one best-selling author David Baldacci...",
+       "stars": "4",
+       "category": ["fiction"]
+     },
+     {
+      "_id": { "$oid": "649aeb5aa7fa4c85582e772c" },
+      "title": "The Night Circus",
+      "thumbnail": "the-night-circus.jpg",
+      "slug": "the-night-circus",
+      "description": "The circus arrives without warning. No announcements precede it. It is simply there, when yesterday it was not.",
+      "stars": "5",
+      "category": ["fantasy", "romance"]
+    },
+    {
+      "_id": { "$oid": "649aeb5ba7fa4c85582e772d" },
+      "title": "To Kill a Mockingbird",
+      "thumbnail": "to-kill-a-mockingbird.jpg",
+      "slug": "to-kill-a-mockingbird",
+      "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It was immediately successful, winning the Pulitzer Prize, and has become a classic of modern American literature.",
+      "stars": "5",
+      "category": ["fiction"]
+    },
+    {
+      "_id": { "$oid": "649aeb5ba7fa4c85582e772e" },
+      "title": "1984",
+      "thumbnail": "1984.jpg",
+      "slug": "1984",
+      "description": "1984 is a dystopian novel by George Orwell published in 1949.",
+      "stars": "4",
+      "category": ["science fiction"]
+    },
+    {
+      "_id": { "$oid": "649aeb5ba7fa4c85582e772f" },
+      "title": "Pride and Prejudice",
+      "thumbnail": "pride-and-prejudice.jpg",
+      "slug": "pride-and-prejudice",
+      "description": "Pride and Prejudice is a romantic novel by Jane Austen published in 1813.",
+      "stars": "4",
+      "category": ["romance", "classic"]
+    },
+    {
+      "_id": { "$oid": "649aeb5ba7fa4c85582e7730" },
+      "title": "The Catcher in the Rye",
+      "thumbnail": "the-catcher-in-the-rye.jpg",
+      "slug": "the-catcher-in-the-rye",
+      "description": "The Catcher in the Rye is a novel by J. D. Salinger, partially published in serial form in 1945–1946 and as a novel in 1951.",
+      "stars": "4",
+      "category": ["fiction"]
+    },
+    {
+      "_id": { "$oid": "649aeb5ca7fa4c85582e7731" },
+      "title": "Brave New World",
+      "thumbnail": "brave-new-world.jpg",
+      "slug": "brave-new-world",
+      "description": "Brave New World is a dystopian social science fiction novel by English author Aldous Huxley, written in 1931 and published in 1932.",
+      "stars": "4",
+      "category": ["science fiction"]
+    },
+    {
+      "_id": { "$oid": "649aeb5ca7fa4c85582e7732" },
+      "title": "The Picture of Dorian Gray",
+      "thumbnail": "the-picture-of-dorian-gray.jpg",
+      "slug": "the-picture-of-dorian-gray",
+      "description": "The Picture of Dorian Gray is a Gothic and philosophical novel by Oscar Wilde, first published complete in the July 1890 issue of Lippincott's Monthly Magazine.",
+      "stars": "5",
+      "category": ["classic", "fantasy"]
+    },
+    {
+      "_id": { "$oid": "649aeb5ca7fa4c85582e7733" },
+      "title": "Lord of the Flies",
+      "thumbnail": "lord-of-the-flies.jpg",
+      "slug": "lord-of-the-flies",
+      "description": "Lord of the Flies is a novel by Nobel Prize-winning British author William Golding.",
+      "stars": "4",
+      "category": ["fiction", "classic"]
+    },
+    {
+      "_id": { "$oid": "649aeb5da7fa4c85582e7734" },
+      "title": "Animal Farm",
+      "thumbnail": "animal-farm.jpg",
+      "slug": "animal-farm",
+      "description": "Animal Farm is an allegorical novella by George Orwell, first published in England on 17 August 1945.",
+      "stars": "4",
+      "category": ["fiction"]
+    },
+    {
+      "_id": { "$oid": "649aeb5da7fa4c85582e7735" },
+      "title": "The Road",
+      "thumbnail": "the-road.jpg",
+      "slug": "the-road",
+      "description": "The Road is a 2006 post-apocalyptic novel by American writer Cormac McCarthy.",
+      "stars": "5",
+      "category": ["dystopian", "fiction"]
+    }
+   ]
+   
+   
+   
+   
+   
+   
